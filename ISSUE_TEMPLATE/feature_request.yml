@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest an improvement or new capability. Wait for maintainer approval before writing code.
+title: "[Feature]: "
+labels:
+  - enhancement
+  - needs-triage
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What are you trying to do, and what gets in the way today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What would you like to happen? Alternatives you considered are welcome.
+    validations:
+      required: true
