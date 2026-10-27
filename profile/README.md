@@ -11,7 +11,7 @@ It is early and not released yet.
 
 | Repository | What it is |
 |---|---|
-| [web](https://github.com/vekrel/web) | Browser client, hosted at [app.vekrel.com](https://app.vekrel.com) |
+| [web](https://github.com/vekrel/web) | Browser client, hosted at [rc.vekrel.com](https://rc.vekrel.com) |
 | [desktop](https://github.com/vekrel/desktop) | Desktop app (Electron) |
 | [mobile](https://github.com/vekrel/mobile) | iOS and Android app |
 | [relay](https://github.com/vekrel/relay) | Cloud relay in Rust: accounts, machine links, tunnels, push |
